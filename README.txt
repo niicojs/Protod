@@ -16,6 +16,14 @@ For further information on Google's protobuf library, please see:
 https://developers.google.com/protocol-buffers/docs/overview
 
 
+Reference:
+    (1) https://github.com/protocolbuffers/protobuf
+    (2) https://sysdream.com/news/lab/2012-06-06-reverse-engineering-of-protobuf-based-applications/
+    (3) https://stackoverflow.com/questions/13937882/parsing-protocol-buffers-without-knowing-the-proto/14027080
+    (4) https://developers.google.com/protocol-buffers/docs/overview
+
+
+
 HOW TO USE THIS TOOL ?
 ----------------------
 
@@ -42,3 +50,5 @@ THANKS
 
 Great thanks to UNclePecos for his time, and all the Sysdream's staff for
 their support.
+
+New update by thomas for  support python3.
